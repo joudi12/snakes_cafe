@@ -50,7 +50,9 @@ def choose_from_menu():
         else:
             meal[request]=1
         if request!="quit":
-            print(f"  ** {meal[request]} order of {request} have been added to your meal")           
+            print(f"  ** {meal[request]} order of {request} have been added to your meal")  
+
+                     
    
 
    
